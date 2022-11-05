@@ -1,0 +1,19 @@
+[global_config]
+  always_on_top = True
+[keybindings]
+[profiles]
+  [[default]]
+    background_darkness = 0.44
+    background_type = transparent
+    cursor_color = "#aaaaaa"
+    show_titlebar = False
+[layouts]
+  [[default]]
+    [[[window0]]]
+      type = Window
+      parent = ""
+    [[[child1]]]
+      type = Terminal
+      parent = window0
+      profile = default
+[plugins]
