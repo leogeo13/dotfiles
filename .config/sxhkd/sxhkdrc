@@ -40,11 +40,11 @@ super + g
 
 # move screen brightness up 
 super + F8
-	XF86MonBrightnessUp
+ 	 brillo -A 10
 
 # move screen brightness down
 super + F7
-	XF86MonBrightnessDown
+	brillo -U 10
 
 # move keyboard light up 
 super + F3
