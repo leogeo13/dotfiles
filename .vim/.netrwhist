@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =7
+let g:netrw_dirhist_7='/home/legitnight'
+let g:netrw_dirhist_6='/home/legitnight/.vim'
+let g:netrw_dirhist_5='/home/legitnight/.local/share/Trash'
+let g:netrw_dirhist_4='/home/legitnight/.config/polybar'
+let g:netrw_dirhist_3='/home/legitnight/Documents/UNLV/CS202/class'
+let g:netrw_dirhist_2='/home/legitnight/Documents/UNLV/CS202/a5'
+let g:netrw_dirhist_1='/etc/NetworkManager/conf.d'
